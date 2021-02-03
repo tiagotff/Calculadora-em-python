@@ -37,4 +37,3 @@ elif opcao == 4:
     print (num1, '/', num2, '=', divide(num1, num2))
 else:
     print ('Opção inválida. Tente novamente !')
-
